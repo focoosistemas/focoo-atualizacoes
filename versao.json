@@ -1,9 +1,9 @@
 {
-  "versao": "2026.11.18.1",
-  "url": "https://raw.githubusercontent.com/focoosistemas/focoo-atualizacoes/main/instaladores/Emissor_FOCOO_Setup_2026.11.18.1.exe",
-  "sha256": "245bdad6ba74132cba85c9e4ebd433e9d82f186820ae02cb1eab5c236abaafc9",
-  "tamanho": 18551795,
+  "versao": "2026.11.18.2",
+  "url": "https://raw.githubusercontent.com/focoosistemas/focoo-atualizacoes/main/instaladores/Emissor_FOCOO_Setup_2026.11.18.2.exe",
+  "sha256": "d249fa1f8ab6e3ce35f1e6d4175f95354fdf55b75f38106f03c57ac45fc988fa",
+  "tamanho": 18552847,
   "notas": "Recepção da academia com lista de alunos e entradas por hora; frequência do aluno; permissão para ver valores; endereço no lote de NFS-e; DANFE sem logo da FOCOO; ícones só do que o cliente usa.",
   "data": "2026-11-18",
-  "assinatura": "4rI80HSQTwo2o/6WxvjukcSTLf73380b7nYlyE/ZVPS22LrwGNEk9Byk0PdEnt80bQJebkXQPWXigwFaDuikBA=="
+  "assinatura": "R06PejO92CICinGyWK68R+3Ph8RUNvIB2vrcPwY10YfCrCeGD3xI+2wr0bZ6g+8sfjKif6O2yNny4YJE2xjsDQ=="
 }
