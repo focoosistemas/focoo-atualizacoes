@@ -1,9 +1,9 @@
 {
-  "versao": "2026.11.18.2",
-  "url": "https://raw.githubusercontent.com/focoosistemas/focoo-atualizacoes/main/instaladores/Emissor_FOCOO_Setup_2026.11.18.2.exe",
-  "sha256": "d249fa1f8ab6e3ce35f1e6d4175f95354fdf55b75f38106f03c57ac45fc988fa",
-  "tamanho": 18552847,
-  "notas": "Recepção da academia com lista de alunos e entradas por hora; frequência do aluno; permissão para ver valores; endereço no lote de NFS-e; DANFE sem logo da FOCOO; ícones só do que o cliente usa.",
+  "versao": "2026.11.18.3",
+  "url": "https://raw.githubusercontent.com/focoosistemas/focoo-atualizacoes/main/instaladores/Emissor_FOCOO_Setup_2026.11.18.3.exe",
+  "sha256": "70c7b5c0030e72527f34f4145f985412c373201b30fa8416cfe7ccd0a733047d",
+  "tamanho": 18574042,
+  "notas": "Novo módulo Arena: agenda das quadras com sinal Pix, mensalistas, comandas, via da cozinha, ficha técnica com baixa de insumos e cardápio digital opcional pela Wi-Fi.",
   "data": "2026-11-18",
-  "assinatura": "R06PejO92CICinGyWK68R+3Ph8RUNvIB2vrcPwY10YfCrCeGD3xI+2wr0bZ6g+8sfjKif6O2yNny4YJE2xjsDQ=="
+  "assinatura": "SyGbcXhuzdB8+Pr04TkqhaBtLxidwpWtiSbOZiDo3iCogLhLgF7SfR/es8sxIUIMIhP4uyhmOLxvLOa7iZHWBg=="
 }
