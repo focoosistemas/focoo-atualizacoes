@@ -1,9 +1,9 @@
 {
-  "versao": "2026.11.18.4",
-  "url": "https://raw.githubusercontent.com/focoosistemas/focoo-atualizacoes/main/instaladores/Emissor_FOCOO_Setup_2026.11.18.4.exe",
-  "sha256": "8185729cb499ae79e9cf25d435746089cba489ec19b84446822c40714fd2f199",
-  "tamanho": 18572664,
-  "notas": "Arena: tributação sugerida para pratos (CFOP 5101, CSOSN 102, NCM 2106.90.90), aplicação em lote no cardápio e NFS-e da reserva com o serviço de locação (item 3.03).",
+  "versao": "2026.11.18.5",
+  "url": "https://raw.githubusercontent.com/focoosistemas/focoo-atualizacoes/main/instaladores/Emissor_FOCOO_Setup_2026.11.18.5.exe",
+  "sha256": "f735da231efd049cb956402df24527709ff136bdd74012f6b2e927c32a242bc2",
+  "tamanho": 18590002,
+  "notas": "Novo módulo Gráfica: tabela de preços por m², milheiro e unidade com acabamentos, orçamento com tributação por item (ISS ou ICMS), quadro de produção, arte com aprovação, consumo de material e notas da OS.",
   "data": "2026-11-18",
-  "assinatura": "eYlUAolPsnz1bUy6J6OH8C9+xMNX6inTv8ZgGp/tuLL8j+ESVlQdc9vdgQuo8aRnh7Dv9HMl46JYl2Gtd11MDQ=="
+  "assinatura": "rkc7yIlKM6XiVjsZ4zejbawMLUwlaz0h6jzAah+xwktT9IGBVTNM05VgTUW9ymiQvYnl4VVDVeZHCtq2BsnmDw=="
 }
