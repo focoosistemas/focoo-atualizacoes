@@ -1,9 +1,9 @@
 {
-  "versao": "2026.11.18.3",
-  "url": "https://raw.githubusercontent.com/focoosistemas/focoo-atualizacoes/main/instaladores/Emissor_FOCOO_Setup_2026.11.18.3.exe",
-  "sha256": "70c7b5c0030e72527f34f4145f985412c373201b30fa8416cfe7ccd0a733047d",
-  "tamanho": 18574042,
-  "notas": "Novo módulo Arena: agenda das quadras com sinal Pix, mensalistas, comandas, via da cozinha, ficha técnica com baixa de insumos e cardápio digital opcional pela Wi-Fi.",
+  "versao": "2026.11.18.4",
+  "url": "https://raw.githubusercontent.com/focoosistemas/focoo-atualizacoes/main/instaladores/Emissor_FOCOO_Setup_2026.11.18.4.exe",
+  "sha256": "8185729cb499ae79e9cf25d435746089cba489ec19b84446822c40714fd2f199",
+  "tamanho": 18572664,
+  "notas": "Arena: tributação sugerida para pratos (CFOP 5101, CSOSN 102, NCM 2106.90.90), aplicação em lote no cardápio e NFS-e da reserva com o serviço de locação (item 3.03).",
   "data": "2026-11-18",
-  "assinatura": "SyGbcXhuzdB8+Pr04TkqhaBtLxidwpWtiSbOZiDo3iCogLhLgF7SfR/es8sxIUIMIhP4uyhmOLxvLOa7iZHWBg=="
+  "assinatura": "eYlUAolPsnz1bUy6J6OH8C9+xMNX6inTv8ZgGp/tuLL8j+ESVlQdc9vdgQuo8aRnh7Dv9HMl46JYl2Gtd11MDQ=="
 }
