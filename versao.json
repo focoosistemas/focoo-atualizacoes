@@ -1,9 +1,9 @@
 {
-  "versao": "2026.11.19.5",
-  "url": "https://raw.githubusercontent.com/focoosistemas/focoo-atualizacoes/main/instaladores/Emissor_FOCOO_Setup_2026.11.19.5.exe",
-  "sha256": "89af6e0fd3c711cda68db6be982f694b0a2f382dbea01de77ee6c3b60ee867f2",
-  "tamanho": 18609650,
-  "notas": "Painel na tela inicial (vendas, recebimentos, contas, estoque baixo e notas pendentes, conforme a atividade da empresa); relatórios de produtos vendidos (curva ABC e margem) e estoque parado; importação de produtos por planilha com saldo inicial.",
+  "versao": "2026.11.19.6",
+  "url": "https://raw.githubusercontent.com/focoosistemas/focoo-atualizacoes/main/instaladores/Emissor_FOCOO_Setup_2026.11.19.6.exe",
+  "sha256": "d0109b4879dd12f99aa8a0f7a50259a175c501676d11328b8fa7fe45ed7aa3b1",
+  "tamanho": 18613018,
+  "notas": "Uso em outros computadores da loja pela rede local (com login, opção da licença); assistente de implantação com o passo a passo de cada empresa.",
   "data": "2026-11-19",
-  "assinatura": "t1zA8yRHMDkAOs/c7iWVs7uXTZnQFzAqw68A07hjy7MdAqFRcYyHGxNLn06nq8KsFeFJX14lwYbd10Ad9LY9Bw=="
+  "assinatura": "SRI7pUEQD+lypXZXxRWMv3lukV7tUX6Tei7vVEXj+EnAvFT5VSYjqsH9tFEVTCw9BYGq8krbrZQOIZ+2jG6ACw=="
 }
