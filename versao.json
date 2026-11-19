@@ -1,9 +1,9 @@
 {
-  "versao": "2026.11.19.1",
-  "url": "https://raw.githubusercontent.com/focoosistemas/focoo-atualizacoes/main/instaladores/Emissor_FOCOO_Setup_2026.11.19.1.exe",
-  "sha256": "511aad234479158e3573e3876ae567776acbe025faddc9e329a296976ea248de",
-  "tamanho": 18595181,
-  "notas": "Atualização entra ao abrir o sistema mesmo se ele estava aberto em segundo plano; registro de erros com envio de relatório ao suporte; aviso de backup atrasado ou com falha na tela inicial.",
+  "versao": "2026.11.19.3",
+  "url": "https://raw.githubusercontent.com/focoosistemas/focoo-atualizacoes/main/instaladores/Emissor_FOCOO_Setup_2026.11.19.3.exe",
+  "sha256": "3901dc6588a6073a3314ba1bc381a62ec26349a5764b1b3e51a8816f3ee95857",
+  "tamanho": 18603469,
+  "notas": "Busca de notas de compra (DF-e) com ciência e confirmação; NF-e de entrada (produtor rural, pessoa física, retorno e outras); alíquotas IBS/CBS editáveis; validação de CPF/CNPJ e endereço antes de usar o número da nota.",
   "data": "2026-11-19",
-  "assinatura": "FbHAxO5Rf/7f0/WzmB+wIlz5WNbYSIj4NMzMf9ZNB3BNELo8qvuhhF1lzfbK4vNb3vVWGsO4Dk4NGxFggfdlCA=="
+  "assinatura": "/blz5lQhB4CbrMQrQdQ3HP8d1C/f6ogM+EXUIyqRdSU0TXyxiZt3RkWq9iIK4a6Mjb0BhDwem3gL4GvkoGypCQ=="
 }
