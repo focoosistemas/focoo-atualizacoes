@@ -1,9 +1,9 @@
 {
-  "versao": "2026.11.19.4",
-  "url": "https://raw.githubusercontent.com/focoosistemas/focoo-atualizacoes/main/instaladores/Emissor_FOCOO_Setup_2026.11.19.4.exe",
-  "sha256": "3ac414430d35be58463682256fba25fd671a26a69e6c4133d4de682a31025336",
-  "tamanho": 18604296,
-  "notas": "Notas de compra na SEFAZ também para empresas de serviço (no Emissor), com download do XML e DANFE; validação de CPF/CNPJ e endereço antes de usar o número da nota; NF-e de entrada sem consumidor final e sem tributos aproximados.",
+  "versao": "2026.11.19.5",
+  "url": "https://raw.githubusercontent.com/focoosistemas/focoo-atualizacoes/main/instaladores/Emissor_FOCOO_Setup_2026.11.19.5.exe",
+  "sha256": "89af6e0fd3c711cda68db6be982f694b0a2f382dbea01de77ee6c3b60ee867f2",
+  "tamanho": 18609650,
+  "notas": "Painel na tela inicial (vendas, recebimentos, contas, estoque baixo e notas pendentes, conforme a atividade da empresa); relatórios de produtos vendidos (curva ABC e margem) e estoque parado; importação de produtos por planilha com saldo inicial.",
   "data": "2026-11-19",
-  "assinatura": "fIhNWqPkzFSHEbheyYY8jEH7hkxzW+Ssq2AvHeauglUr9ucN6ks2fxGXV+RwZvC+SpwCmbkk3QzZC29hWowgBA=="
+  "assinatura": "t1zA8yRHMDkAOs/c7iWVs7uXTZnQFzAqw68A07hjy7MdAqFRcYyHGxNLn06nq8KsFeFJX14lwYbd10Ad9LY9Bw=="
 }
