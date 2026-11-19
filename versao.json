@@ -1,9 +1,9 @@
 {
-  "versao": "2026.11.19.6",
-  "url": "https://raw.githubusercontent.com/focoosistemas/focoo-atualizacoes/main/instaladores/Emissor_FOCOO_Setup_2026.11.19.6.exe",
-  "sha256": "d0109b4879dd12f99aa8a0f7a50259a175c501676d11328b8fa7fe45ed7aa3b1",
-  "tamanho": 18613018,
-  "notas": "Uso em outros computadores da loja pela rede local (com login, opção da licença); assistente de implantação com o passo a passo de cada empresa.",
+  "versao": "2026.11.19.7",
+  "url": "https://raw.githubusercontent.com/focoosistemas/focoo-atualizacoes/main/instaladores/Emissor_FOCOO_Setup_2026.11.19.7.exe",
+  "sha256": "d85b4cc07df7a108158387d97f81c5fc4219868603434caab070dd0758e0353c",
+  "tamanho": 18615313,
+  "notas": "Correção: NFS-e emitidas em lote (planilha) passam a gerar a conta a receber no Financeiro.",
   "data": "2026-11-19",
-  "assinatura": "SRI7pUEQD+lypXZXxRWMv3lukV7tUX6Tei7vVEXj+EnAvFT5VSYjqsH9tFEVTCw9BYGq8krbrZQOIZ+2jG6ACw=="
+  "assinatura": "KutGpVVhhKECRftLpC+ZKOYBT+xULafD5o4bKAFp7FlfCasbYKvZCAcdjEhNWMisRCyvbQ2gQJGJVTY6nFUpBw=="
 }
