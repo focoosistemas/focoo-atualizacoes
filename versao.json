@@ -1,9 +1,9 @@
 {
-  "versao": "2026.11.18.5",
-  "url": "https://raw.githubusercontent.com/focoosistemas/focoo-atualizacoes/main/instaladores/Emissor_FOCOO_Setup_2026.11.18.5.exe",
-  "sha256": "f735da231efd049cb956402df24527709ff136bdd74012f6b2e927c32a242bc2",
-  "tamanho": 18590002,
-  "notas": "Novo módulo Gráfica: tabela de preços por m², milheiro e unidade com acabamentos, orçamento com tributação por item (ISS ou ICMS), quadro de produção, arte com aprovação, consumo de material e notas da OS.",
-  "data": "2026-11-18",
-  "assinatura": "rkc7yIlKM6XiVjsZ4zejbawMLUwlaz0h6jzAah+xwktT9IGBVTNM05VgTUW9ymiQvYnl4VVDVeZHCtq2BsnmDw=="
+  "versao": "2026.11.19.1",
+  "url": "https://raw.githubusercontent.com/focoosistemas/focoo-atualizacoes/main/instaladores/Emissor_FOCOO_Setup_2026.11.19.1.exe",
+  "sha256": "511aad234479158e3573e3876ae567776acbe025faddc9e329a296976ea248de",
+  "tamanho": 18595181,
+  "notas": "Atualização entra ao abrir o sistema mesmo se ele estava aberto em segundo plano; registro de erros com envio de relatório ao suporte; aviso de backup atrasado ou com falha na tela inicial.",
+  "data": "2026-11-19",
+  "assinatura": "FbHAxO5Rf/7f0/WzmB+wIlz5WNbYSIj4NMzMf9ZNB3BNELo8qvuhhF1lzfbK4vNb3vVWGsO4Dk4NGxFggfdlCA=="
 }
