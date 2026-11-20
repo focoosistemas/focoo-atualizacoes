@@ -1,9 +1,9 @@
 {
-  "versao": "2026.11.20.3",
-  "url": "https://raw.githubusercontent.com/focoosistemas/focoo-atualizacoes/main/instaladores/Emissor_FOCOO_Setup_2026.11.20.3.exe",
-  "sha256": "4c87c9cd4e164041d1116694abbcf03c9d4f6fa6455844d0b18d80e14e18042e",
-  "tamanho": 18689609,
-  "notas": "Clínica e Academia em vários computadores ao mesmo tempo (alterações juntadas, tela atualiza sozinha). NFS-e de menor em nome do responsável com os dados do menor nas informações complementares.",
+  "versao": "2026.11.20.4",
+  "url": "https://raw.githubusercontent.com/focoosistemas/focoo-atualizacoes/main/instaladores/Emissor_FOCOO_Setup_2026.11.20.4.exe",
+  "sha256": "6dd0d09fe948e7973efd691d9716a0f06587be61b8a3e43b286642e392cfbf66",
+  "tamanho": 18694221,
+  "notas": "Clínica: agendamento online por link (horário marcado some para os outros e entra na Agenda em até 1 minuto).",
   "data": "2026-11-20",
-  "assinatura": "v4nWLWS+ekpKLcWQtiW+B3qJhnxRfvDVRa6gQUpws6x3RFrUAjAB0wLAvRj0u0E9NfLY+UfdUAhG294g70hfCA=="
+  "assinatura": "Ezx1nh/I0MxPkmWKQMcS1siUpyT8yH6HnuSZIN7T4NakdlkRRgucmC+4PEbuLs7AT2x8V9jUV2nJv7Hg1gdlBA=="
 }
