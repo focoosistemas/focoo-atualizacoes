@@ -1,9 +1,9 @@
 {
-  "versao": "2026.11.20.2",
-  "url": "https://raw.githubusercontent.com/focoosistemas/focoo-atualizacoes/main/instaladores/Emissor_FOCOO_Setup_2026.11.20.2.exe",
-  "sha256": "8d1e1faaa2be0a9b6a8dcd3574e8115c0dd4ec86e864339042580c3de66b7344",
-  "tamanho": 18689688,
-  "notas": "Financeiro único da Clínica (contas a pagar e despesas no Financeiro do Emissor), cartão da clínica no Banco, NFS-e sem travar o sistema e sem risco de duplicidade, aviso de sessão expirada e de falta de conexão.",
+  "versao": "2026.11.20.3",
+  "url": "https://raw.githubusercontent.com/focoosistemas/focoo-atualizacoes/main/instaladores/Emissor_FOCOO_Setup_2026.11.20.3.exe",
+  "sha256": "4c87c9cd4e164041d1116694abbcf03c9d4f6fa6455844d0b18d80e14e18042e",
+  "tamanho": 18689609,
+  "notas": "Clínica e Academia em vários computadores ao mesmo tempo (alterações juntadas, tela atualiza sozinha). NFS-e de menor em nome do responsável com os dados do menor nas informações complementares.",
   "data": "2026-11-20",
-  "assinatura": "d+WAky6Cp2tvZHLS87Wo3bH7IfH9Gn/6muMriSPwxSOLN5/PxT5zONvOQKWgKaVYsDuDk933mGG3DtqiA83hBg=="
+  "assinatura": "v4nWLWS+ekpKLcWQtiW+B3qJhnxRfvDVRa6gQUpws6x3RFrUAjAB0wLAvRj0u0E9NfLY+UfdUAhG294g70hfCA=="
 }
