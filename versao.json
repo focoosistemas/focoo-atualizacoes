@@ -1,9 +1,9 @@
 {
-  "versao": "2026.11.20.5",
-  "url": "https://raw.githubusercontent.com/focoosistemas/focoo-atualizacoes/main/instaladores/Emissor_FOCOO_Setup_2026.11.20.5.exe",
-  "sha256": "8022389085dc35d58fabec16bbee1c5c118531650aa99748738fd14c0f02d78b",
-  "tamanho": 18693010,
-  "notas": "Clínica: opção de emitir a NFS-e sozinho ao confirmar o recebimento (particular).",
+  "versao": "2026.11.20.6",
+  "url": "https://raw.githubusercontent.com/focoosistemas/focoo-atualizacoes/main/instaladores/Emissor_FOCOO_Setup_2026.11.20.6.exe",
+  "sha256": "406dcb63a1ba08c69ee740e78f517bd7a306e0a307097c40526ccdbcea489e7e",
+  "tamanho": 18702801,
+  "notas": "Clínica: atendimento pela agenda, orçamento como plano de tratamento (parcelas e sessões), anamnese, odontograma e produção por dentista.",
   "data": "2026-11-20",
-  "assinatura": "ftg375uymMDfdUpZNQz//CkmeoT9fiwLRuql5DW/gYJWYnL477qDUBiL8gwYAEQvF+4OVbFxtlnEPo0XBqRDBw=="
+  "assinatura": "0roCywR+le+sY3sY/zTNDAA2yD7zGd4p+GkO3tWY0AQbxA16wOvAy1UxCKGtH6dI3mG+4+JPwRspwUjw7GhgCg=="
 }
