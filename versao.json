@@ -1,9 +1,9 @@
 {
-  "versao": "2026.11.19.8",
-  "url": "https://raw.githubusercontent.com/focoosistemas/focoo-atualizacoes/main/instaladores/Emissor_FOCOO_Setup_2026.11.19.8.exe",
-  "sha256": "d518af537bd5ad77947cae4a54aca933fb73f3aa31276fb0f70f45e985c07f18",
-  "tamanho": 18630062,
-  "notas": "Contrato preenchido pela licença com aceite eletrônico (enviado ao Google Drive da FOCOO); manual de operação dos módulos contratados no rodapé.",
-  "data": "2026-11-19",
-  "assinatura": "6HD8Asdu1jEZ0tRiW0p3G3ccthJboEPI9pnMbvhp4gODQmY7qDG3/ItE4HEe+wsDEPCO2dbvCdYCJHL87QUsBA=="
+  "versao": "2026.11.20.1",
+  "url": "https://raw.githubusercontent.com/focoosistemas/focoo-atualizacoes/main/instaladores/Emissor_FOCOO_Setup_2026.11.20.1.exe",
+  "sha256": "c1619f0a52bcb170d9b6300c7414ace62ed60e05fef0498f94114c2ba433b7a7",
+  "tamanho": 18687401,
+  "notas": "Novo módulo Clínica (agenda, atendimentos, prontuários, orçamentos, convênios), integrado aos Clientes, Financeiro e NFS-e, funcionando sem internet.",
+  "data": "2026-11-20",
+  "assinatura": "xbyEGZ0Zn9QyLujfkFtxSjNztKDLbrDxXLBnmldnnMpk6/zliySHdbVm55sGknjF9DJucC3jz2boJE22XRXTBA=="
 }
