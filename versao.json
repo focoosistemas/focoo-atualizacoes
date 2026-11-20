@@ -1,9 +1,9 @@
 {
-  "versao": "2026.11.20.1",
-  "url": "https://raw.githubusercontent.com/focoosistemas/focoo-atualizacoes/main/instaladores/Emissor_FOCOO_Setup_2026.11.20.1.exe",
-  "sha256": "c1619f0a52bcb170d9b6300c7414ace62ed60e05fef0498f94114c2ba433b7a7",
-  "tamanho": 18687401,
-  "notas": "Novo módulo Clínica (agenda, atendimentos, prontuários, orçamentos, convênios), integrado aos Clientes, Financeiro e NFS-e, funcionando sem internet.",
+  "versao": "2026.11.20.2",
+  "url": "https://raw.githubusercontent.com/focoosistemas/focoo-atualizacoes/main/instaladores/Emissor_FOCOO_Setup_2026.11.20.2.exe",
+  "sha256": "8d1e1faaa2be0a9b6a8dcd3574e8115c0dd4ec86e864339042580c3de66b7344",
+  "tamanho": 18689688,
+  "notas": "Financeiro único da Clínica (contas a pagar e despesas no Financeiro do Emissor), cartão da clínica no Banco, NFS-e sem travar o sistema e sem risco de duplicidade, aviso de sessão expirada e de falta de conexão.",
   "data": "2026-11-20",
-  "assinatura": "xbyEGZ0Zn9QyLujfkFtxSjNztKDLbrDxXLBnmldnnMpk6/zliySHdbVm55sGknjF9DJucC3jz2boJE22XRXTBA=="
+  "assinatura": "d+WAky6Cp2tvZHLS87Wo3bH7IfH9Gn/6muMriSPwxSOLN5/PxT5zONvOQKWgKaVYsDuDk933mGG3DtqiA83hBg=="
 }
