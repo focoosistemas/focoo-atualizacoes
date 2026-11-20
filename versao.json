@@ -1,9 +1,9 @@
 {
-  "versao": "2026.11.20.7",
-  "url": "https://raw.githubusercontent.com/focoosistemas/focoo-atualizacoes/main/instaladores/Emissor_FOCOO_Setup_2026.11.20.7.exe",
-  "sha256": "7ab36041d093ca14921e70d1d07f0b8d872dff2bc5b60032095fdd09c38be3f7",
-  "tamanho": 18701979,
-  "notas": "Notas na SEFAZ: nota que se perdia quando a conexão caía agora é buscada de novo; XML completo pedido sozinho pela chave quando atrasa.",
+  "versao": "2026.11.20.8",
+  "url": "https://raw.githubusercontent.com/focoosistemas/focoo-atualizacoes/main/instaladores/Emissor_FOCOO_Setup_2026.11.20.8.exe",
+  "sha256": "12bb271d8de83f83afc5b0854cc052eb8ef96deb8c7d1cb05b6420e8423af154",
+  "tamanho": 18702558,
+  "notas": "Aviso quando a empresa é marcada com um módulo que a licença não inclui.",
   "data": "2026-11-20",
-  "assinatura": "nqzA1bFJzxcfGmx85AdVm8OCr8Uc838NgB39UBCSY6bQ+46WoZVJVQZpYoKJFzvvJeRXVFmyZISZkjdxa/emAA=="
+  "assinatura": "xMX7lUE5DyLSVJImuuSMjtWBN5rX4vclg9OtJ8UIB6MrAa8e0haKGGlW7v4T47Lsg7AtgQUAR/lt6yvs8N75Ag=="
 }
