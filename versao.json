@@ -1,9 +1,9 @@
 {
-  "versao": "2026.11.20.10",
-  "url": "https://raw.githubusercontent.com/focoosistemas/focoo-atualizacoes/main/instaladores/Emissor_FOCOO_Setup_2026.11.20.10.exe",
-  "sha256": "b64f96f58318ae047d5b25d0884f4a977e263a6ee058acd30edd585ed93dace1",
-  "tamanho": 18730245,
-  "notas": "Tabelas oficiais da Receita Federal para IBS/CBS: CST e cClassTrib em lista com descrição, validação por tipo de nota, redução automática no CST 200, alíquotas pela data da nota e sugestão de NBS e indicador da operação na NFS-e. As tabelas se atualizam sozinhas uma vez por dia.",
+  "versao": "2026.11.20.11",
+  "url": "https://raw.githubusercontent.com/focoosistemas/focoo-atualizacoes/main/instaladores/Emissor_FOCOO_Setup_2026.11.20.11.exe",
+  "sha256": "963a48fdd948d110ab33ddeb2fac0dc63356959fdcb6f41cfbf748d03be269fc",
+  "tamanho": 18730392,
+  "notas": "NFS-e: IBS/CBS preenchido conforme o regime. Novo campo em Cadastros, Empresa: Simples com IBS/CBS fora do DAS (regime híbrido), que passa a informar a partir de 01/01/2027. Serviços predefinidos com indicador da operação, CST e cClassTrib, usados também nas notas automáticas.",
   "data": "2026-11-20",
-  "assinatura": "sbHU7QJHtBUcJyWFijPFSB1yY1KySHNodZ5ZcoKc1S8gnLTcICp4WvOywOjfk3VCU7T9nKmMDHHvVk6wEmmPCA=="
+  "assinatura": "CUSrrhR93QE42ne3eIPH1WPAGp2gBo1TLFCnkOQyl/wqIHPUg5mcQQNbe2F5hLY3Nu44o1ewrUCNodr0a+XGAA=="
 }
