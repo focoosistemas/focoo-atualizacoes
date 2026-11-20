@@ -1,9 +1,9 @@
 {
-  "versao": "2026.11.20.8",
-  "url": "https://raw.githubusercontent.com/focoosistemas/focoo-atualizacoes/main/instaladores/Emissor_FOCOO_Setup_2026.11.20.8.exe",
-  "sha256": "12bb271d8de83f83afc5b0854cc052eb8ef96deb8c7d1cb05b6420e8423af154",
-  "tamanho": 18702558,
-  "notas": "Aviso quando a empresa é marcada com um módulo que a licença não inclui.",
+  "versao": "2026.11.20.9",
+  "url": "https://raw.githubusercontent.com/focoosistemas/focoo-atualizacoes/main/instaladores/Emissor_FOCOO_Setup_2026.11.20.9.exe",
+  "sha256": "2b4a846c981cf05c95707a49314bacbc9d78e5825ea9c46016833be82c6647e7",
+  "tamanho": 18706467,
+  "notas": "Arena: reservas online por link (horário reservado some para os outros e entra na agenda). Nova página de agendamento para clínica e arena.",
   "data": "2026-11-20",
-  "assinatura": "xMX7lUE5DyLSVJImuuSMjtWBN5rX4vclg9OtJ8UIB6MrAa8e0haKGGlW7v4T47Lsg7AtgQUAR/lt6yvs8N75Ag=="
+  "assinatura": "LdcdOTw9bjxeksP0mIs475gJUrSZ7WeR797TBpDwI4dFjXfBduHvCGoxapD45bqw9v9aGb7rQquZdO+mQCZVDA=="
 }
