@@ -1,9 +1,9 @@
 {
-  "versao": "2026.11.20.12",
-  "url": "https://raw.githubusercontent.com/focoosistemas/focoo-atualizacoes/main/instaladores/Emissor_FOCOO_Setup_2026.11.20.12.exe",
-  "sha256": "9f7a0b882cebe3af6cd40e8b215282f6251f196640d73e30b42341edf0ffc757",
-  "tamanho": 18731683,
-  "notas": "Menus mais limpos: saem os itens ainda não disponíveis (NF-e de exportação e importação, CT-e) e os pedidos repetidos. Insumos da clínica no estoque geral. Leitura de etiqueta de balança (peso ou preço) no PDV.",
+  "versao": "2026.11.20.13",
+  "url": "https://raw.githubusercontent.com/focoosistemas/focoo-atualizacoes/main/instaladores/Emissor_FOCOO_Setup_2026.11.20.13.exe",
+  "sha256": "9d9fe5c482a91fca7cca4b417e24b94b5e6384c96147b9849f68b6d04a143569",
+  "tamanho": 18732627,
+  "notas": "Configuração de emissão mais simples para empresas só de serviço: NF-e, NFC-e, tabela do IBPT e balança aparecem só para quem tem comércio.",
   "data": "2026-11-21",
-  "assinatura": "l+TPs9jfpWBvrcp5nATEqOdVZVgLUwswR+/NLrDUk6WRDGK/9M2djy9J5T+PXNbWCRzXgZzch1vXNTI5rSUJDA=="
+  "assinatura": "mK4WOtR7HLJBUuB72Svks4rDc+oOkqt8NPaHL7gJiOMLoKf2mcqHsvuKWlVnCL00uLwl+YfwcGu2kaIh6C0+Bw=="
 }
