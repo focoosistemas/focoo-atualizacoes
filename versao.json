@@ -1,9 +1,9 @@
 {
-  "versao": "2026.11.20.11",
-  "url": "https://raw.githubusercontent.com/focoosistemas/focoo-atualizacoes/main/instaladores/Emissor_FOCOO_Setup_2026.11.20.11.exe",
-  "sha256": "963a48fdd948d110ab33ddeb2fac0dc63356959fdcb6f41cfbf748d03be269fc",
-  "tamanho": 18730392,
-  "notas": "NFS-e: IBS/CBS preenchido conforme o regime. Novo campo em Cadastros, Empresa: Simples com IBS/CBS fora do DAS (regime híbrido), que passa a informar a partir de 01/01/2027. Serviços predefinidos com indicador da operação, CST e cClassTrib, usados também nas notas automáticas.",
-  "data": "2026-11-20",
-  "assinatura": "CUSrrhR93QE42ne3eIPH1WPAGp2gBo1TLFCnkOQyl/wqIHPUg5mcQQNbe2F5hLY3Nu44o1ewrUCNodr0a+XGAA=="
+  "versao": "2026.11.20.12",
+  "url": "https://raw.githubusercontent.com/focoosistemas/focoo-atualizacoes/main/instaladores/Emissor_FOCOO_Setup_2026.11.20.12.exe",
+  "sha256": "9f7a0b882cebe3af6cd40e8b215282f6251f196640d73e30b42341edf0ffc757",
+  "tamanho": 18731683,
+  "notas": "Menus mais limpos: saem os itens ainda não disponíveis (NF-e de exportação e importação, CT-e) e os pedidos repetidos. Insumos da clínica no estoque geral. Leitura de etiqueta de balança (peso ou preço) no PDV.",
+  "data": "2026-11-21",
+  "assinatura": "l+TPs9jfpWBvrcp5nATEqOdVZVgLUwswR+/NLrDUk6WRDGK/9M2djy9J5T+PXNbWCRzXgZzch1vXNTI5rSUJDA=="
 }
