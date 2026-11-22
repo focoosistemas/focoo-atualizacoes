@@ -1,9 +1,9 @@
 {
-  "versao": "2026.11.20.14",
-  "url": "https://raw.githubusercontent.com/focoosistemas/focoo-atualizacoes/main/instaladores/Emissor_FOCOO_Setup_2026.11.20.14.exe",
-  "sha256": "dbab17b0454dc5a3db4930cedcfa13d2e52494ea11faabf409aac1a26d4e3b03",
-  "tamanho": 18743239,
-  "notas": "NFC-e não sai mais para CNPJ: venda para empresa vai em NF-e, como manda a regra nacional. Nova tela inicial com atalhos, avisos do que precisa de atenção e faturamento do mês.",
+  "versao": "2026.11.20.15",
+  "url": "https://raw.githubusercontent.com/focoosistemas/focoo-atualizacoes/main/instaladores/Emissor_FOCOO_Setup_2026.11.20.15.exe",
+  "sha256": "6ac307bc5deaade432c4b9e636af1e77ac459737cfe4e552de28051c3ce8a82e",
+  "tamanho": 18751699,
+  "notas": "Cobrança pelo banco (Asaas, Inter e Cora): boleto com Pix ou só Pix a partir da conta a receber, baixa automática com a data e o valor pagos e emissão da nota ao receber. Envio por e-mail e WhatsApp. Módulo opcional da licença.",
   "data": "2026-11-22",
-  "assinatura": "VGzo+MZiyZUSgNEltc/zWVAS8jAwE8aeO1A0HXgBrBdXJQ1xgEddJSmh9whKW5pSaKJBdFfFktJ9XcPWVp0uCg=="
+  "assinatura": "piM68MR/Hvwbsx4z5xbN6OprZZp5JezvzC5OhYdvw7/Q2Eq4FR897zntwAZF7QaTmwpRzBblpUGTXpS3IespBg=="
 }
