@@ -1,9 +1,9 @@
 {
-  "versao": "2026.11.20.16",
-  "url": "https://raw.githubusercontent.com/focoosistemas/focoo-atualizacoes/main/instaladores/Emissor_FOCOO_Setup_2026.11.20.16.exe",
-  "sha256": "bb2988a75508503d9c6e2b3e0942a7dc2e7a86be8bb3149d20008b707e3e3331",
-  "tamanho": 18754996,
-  "notas": "Módulo Mercadinho: fiado com limite por cliente, preços por margem e promoções com período. Atalhos de teclado no caixa (F2 a F10) e quantidade com 3*código.",
+  "versao": "2026.11.20.17",
+  "url": "https://raw.githubusercontent.com/focoosistemas/focoo-atualizacoes/main/instaladores/Emissor_FOCOO_Setup_2026.11.20.17.exe",
+  "sha256": "41f68b0d08a0ff1bcab92de526a2ffe9356eaea2a535a98fa982670c4fa55eda",
+  "tamanho": 18756002,
+  "notas": "Pedido de venda aceita Enter, pistola, 3*código e etiqueta da balança. Aviso na tela inicial quando o backup fica só no próprio computador.",
   "data": "2026-11-22",
-  "assinatura": "Zp38+CjwOOoN+T61qMNorplwlPJ55BRJMNYBAzZoVr8ZrpFhjcGvTvBj6a/IhT06sfvgw6/svfkO6DZ0MtgTAA=="
+  "assinatura": "g1vHJO0QO9OpxMworpFoGH0aBpM40PRU/aIKB9SX31u1t+JTyme7oT/oc6gx0seq9xYpnJd3M2IXUp3tWy+uBA=="
 }
