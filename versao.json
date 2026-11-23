@@ -1,9 +1,9 @@
 {
-  "versao": "2026.11.20.35",
-  "url": "https://raw.githubusercontent.com/focoosistemas/focoo-atualizacoes/main/instaladores/Emissor_FOCOO_Setup_2026.11.20.35.exe",
-  "sha256": "c199c9b67cf296ee52445ee1f80554e93405591b8209f0004bfb725e8c5d7309",
-  "tamanho": 18653473,
-  "notas": "NFS-e da cobrança: competência pela data do pagamento no mês do serviço; atrasado fica no mês do serviço; adiantado espera o mês começar.",
+  "versao": "2026.11.20.36",
+  "url": "https://raw.githubusercontent.com/focoosistemas/focoo-atualizacoes/main/instaladores/Emissor_FOCOO_Setup_2026.11.20.36.exe",
+  "sha256": "b5c49e8a79925e21905be7aebe539ccee23039cbabd00daa2dc502d1015d525d",
+  "tamanho": 18654497,
+  "notas": "Cobranças: instabilidade do banco na consulta não aparece como erro na hora; avisa só se durar mais de 3 horas e o aviso some quando o banco volta.",
   "data": "2026-11-23",
-  "assinatura": "ou57ezM7NlH1HoG6pfVQhJXpG94hU1wwB4JL4co7Rl02vbzATBBSXrzY5Gm6/vPSkfOCpMHFxhSfMOglfjhsDw=="
+  "assinatura": "qDkcRTwXNBVCzYZ+kGR1b5q4ZlHm8f/PgyREMJDzPlj016Dn0/Ar4eRuAtNs69ifEyyo71bbbKE8qQBGHgMOBg=="
 }
