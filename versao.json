@@ -1,9 +1,9 @@
 {
-  "versao": "2026.11.20.26",
-  "url": "https://raw.githubusercontent.com/focoosistemas/focoo-atualizacoes/main/instaladores/Emissor_FOCOO_Setup_2026.11.20.26.exe",
-  "sha256": "5ee5c31bdd93e3c39731a6297dc60466d9cd49fb115247d1670c2ee1a0418f5a",
-  "tamanho": 18648531,
-  "notas": "Contas a receber sugerem os clientes cadastrados; a cobrança pelo banco já busca o cliente pelo nome.",
+  "versao": "2026.11.20.27",
+  "url": "https://raw.githubusercontent.com/focoosistemas/focoo-atualizacoes/main/instaladores/Emissor_FOCOO_Setup_2026.11.20.27.exe",
+  "sha256": "e86dd13717a617aeadbaf09c19205fd36ed3a6816eeb241bc9d4b1eedba9bfd4",
+  "tamanho": 18650136,
+  "notas": "Cobrança Inter: envio sem campos vazios e mensagem de erro com o campo recusado pelo banco.",
   "data": "2026-11-23",
-  "assinatura": "XHw22LI51dAcUnunzFlOvDuAhPc4p5z9JljwlDhKwkCFe2K5qgnboPV3AiLVZcNS86DM3hIWQ+5useeU3PSFDA=="
+  "assinatura": "ZUsh76wkw2uYLePGqNweGi+VegKnOxWKVJFQTJeuFV1Wq1nAjLUieeuSmiB5Ky1HmuPVnyKLV9QbsbAiazysBA=="
 }
