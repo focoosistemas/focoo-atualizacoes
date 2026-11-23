@@ -1,9 +1,9 @@
 {
-  "versao": "2026.11.20.23",
-  "url": "https://raw.githubusercontent.com/focoosistemas/focoo-atualizacoes/main/instaladores/Emissor_FOCOO_Setup_2026.11.20.23.exe",
-  "sha256": "18f3595117501d12363f2aaa7bbc1b62ff980b188e06e3267364bf6725eea047",
-  "tamanho": 18648792,
-  "notas": "Academia: contrato mostra a cláusula de atraso conforme a configuração de multa e juros.",
+  "versao": "2026.11.20.24",
+  "url": "https://raw.githubusercontent.com/focoosistemas/focoo-atualizacoes/main/instaladores/Emissor_FOCOO_Setup_2026.11.20.24.exe",
+  "sha256": "6540cdf878cf8f1e0bfb8c6f1a48c83bc257a1987c838c972d8051ade8237bba",
+  "tamanho": 18648677,
+  "notas": "Nota fiscal pelo valor principal: multa e juros por atraso não entram na NFS-e (cobrança pelo banco e mensalidades da academia).",
   "data": "2026-11-23",
-  "assinatura": "DnKrKNK4W6p60+eA2Bvbq6/5klbY+rEU3WIzO/p381vl+4fr385OBxGth9VRwy3WKi75o8lnljGgMdZ81CgZCw=="
+  "assinatura": "wwxIg1rQ7MhzlrYULywHqjucUAYHFOjokWt31b0i8tEzu42oP5xkU4O9VfZuRjfNGuo4gMUQryJDQqzdL9IaDg=="
 }
