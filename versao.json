@@ -1,9 +1,9 @@
 {
-  "versao": "2026.11.20.28",
-  "url": "https://raw.githubusercontent.com/focoosistemas/focoo-atualizacoes/main/instaladores/Emissor_FOCOO_Setup_2026.11.20.28.exe",
-  "sha256": "7ef9a5ee894b220ed6b3efd95dfb04f2bb0363fac106a6f8e3bc1b4cd7bb0d0f",
-  "tamanho": 18650870,
-  "notas": "Cobrança cancelada não mostra mais QR Code nem linha digitável.",
+  "versao": "2026.11.20.29",
+  "url": "https://raw.githubusercontent.com/focoosistemas/focoo-atualizacoes/main/instaladores/Emissor_FOCOO_Setup_2026.11.20.29.exe",
+  "sha256": "d8ae33e928dc01a2b90f510ef577ccee811f2c05b2bc9a710b5f57270b442e8d",
+  "tamanho": 18649603,
+  "notas": "Cobranças: prazo configurável para pagar após o vencimento e situação atual da nota (mostra cancelada).",
   "data": "2026-11-23",
-  "assinatura": "3gST3cgdheGpovyNFk/tjbsrFVwiiDW8qrhNzDbUtuU+MZ4GcIIj3upsSqCcoTJoe7cLKOiEZuz1JUciuCkvBg=="
+  "assinatura": "XGNu5ae9Cn2V7lDtXilfdxT1q9fXMcPSxes9V8McEDPDqm4STxOtLdqeXB1R+tgrzB1UUHgVM0PG8NV1b7rWCw=="
 }
