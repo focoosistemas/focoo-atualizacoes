@@ -1,9 +1,9 @@
 {
-  "versao": "2026.11.20.32",
-  "url": "https://raw.githubusercontent.com/focoosistemas/focoo-atualizacoes/main/instaladores/Emissor_FOCOO_Setup_2026.11.20.32.exe",
-  "sha256": "17bb027b0de4e487c4165d5c66da44715e1b0dcd9fd9517a0bd3ca8bacb40d20",
-  "tamanho": 18653060,
-  "notas": "Cobrança paga não mostra mais Pix e linha digitável; texto correto quando a baixa foi estornada.",
+  "versao": "2026.11.20.33",
+  "url": "https://raw.githubusercontent.com/focoosistemas/focoo-atualizacoes/main/instaladores/Emissor_FOCOO_Setup_2026.11.20.33.exe",
+  "sha256": "c87c9ca50ddb15c3ae857967cf5cad7046d267264d8e7cc42e369ccb20f449d4",
+  "tamanho": 18652302,
+  "notas": "Dados fiscais do produto: sugestão de CFOP acompanha a destinação escolhida (produto acabado 5101/6101, matéria-prima 1101/2101).",
   "data": "2026-11-23",
-  "assinatura": "j8qgvt2O6l46RTDYujHUkJP5QL2IFwTqFcP+cJh4lx1eMae/DboG1hQj9uKvHaMxejjtFsO0FTR7Xk+C8G02Bw=="
+  "assinatura": "nn9Mdc6wOKyflYpMlG9G4k/67Y8XrAJnjUSPsiJ0tFlr5CTY1bPTaQjSsSQxcx9RotTzaWmfMD672B8r7fJnDg=="
 }
