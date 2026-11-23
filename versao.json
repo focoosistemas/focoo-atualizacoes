@@ -1,9 +1,9 @@
 {
-  "versao": "2026.11.20.20",
-  "url": "https://raw.githubusercontent.com/focoosistemas/focoo-atualizacoes/main/instaladores/Emissor_FOCOO_Setup_2026.11.20.20.exe",
-  "sha256": "6f5efa08058d950c52386df51e3f17ceb2b1674e803a23232ca361c1499f9ffc",
-  "tamanho": 18640391,
-  "notas": "Mercadinho: validade dos perecíveis, etiquetas de gôndola e vários códigos de barras por produto. Gráfica: preço por quantidade e comissão de vendedor. PDV: dividir a conta. Reservas e numeração protegidas contra gravação simultânea.",
+  "versao": "2026.11.20.21",
+  "url": "https://raw.githubusercontent.com/focoosistemas/focoo-atualizacoes/main/instaladores/Emissor_FOCOO_Setup_2026.11.20.21.exe",
+  "sha256": "1f66c0a181b39172d4b02ea344e88592e70e03a298cda0e172417e99b275dd77",
+  "tamanho": 18649800,
+  "notas": "Academia: trancamento de plano, multa e juros, ficha de treino, avaliação física, contrato do aluno e turmas. Clínica: imagens e exames no prontuário, retornos programados e lista de espera.",
   "data": "2026-11-23",
-  "assinatura": "QtAD7KhNTTg6OwcDko2vx9ZNbyl0qEnzw+6dS50J4AryZCd5qyjXPPBhXau+3cv02mAkQX+/dJcv2DI/lXpiBA=="
+  "assinatura": "05Zw8VlmjLf3o7EcQs5LfX/TQpGq6jTsyRmQ7swD5liT9O+NopXcrjO9Dj03JqAsLfwuxrVWOIYEoR2SX8E6DA=="
 }
