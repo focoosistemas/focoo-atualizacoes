@@ -1,9 +1,9 @@
 {
-  "versao": "2026.11.20.30",
-  "url": "https://raw.githubusercontent.com/focoosistemas/focoo-atualizacoes/main/instaladores/Emissor_FOCOO_Setup_2026.11.20.30.exe",
-  "sha256": "8bd1006fd567493083578e4c95e950187cdbfb369baa37a97130b8e260c56a9e",
-  "tamanho": 18651364,
-  "notas": "Backup com senha: arquivo criptografado (AES-256), restauração pede a senha em outro computador.",
+  "versao": "2026.11.20.31",
+  "url": "https://raw.githubusercontent.com/focoosistemas/focoo-atualizacoes/main/instaladores/Emissor_FOCOO_Setup_2026.11.20.31.exe",
+  "sha256": "7521c50e4d177c7140dcf7cea561ae3c78bfa8b3c2a4823221c9eab26d49a758",
+  "tamanho": 18655763,
+  "notas": "Tela inicial avisa boleto pago no banco com estorno no Financeiro; marcar devolução como resolvida.",
   "data": "2026-11-23",
-  "assinatura": "mdUpVlF+z6bMx/ufnUIJNtDP0MwkOf49h6KrjznD5TNbgdL/d7H4IkeUeWk5spXbpsSHBHl28LYd0d8S5gBqBg=="
+  "assinatura": "XtKOnRR6ay4Njv5pmKjq8VQWb+xw0GsYCDz3G7zr4fz7K5aa7toN5bJOqc7Xy+CI65DT2JrCKs+NK8fzYK2CAQ=="
 }
