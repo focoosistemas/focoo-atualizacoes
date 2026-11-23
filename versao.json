@@ -1,9 +1,9 @@
 {
-  "versao": "2026.11.20.31",
-  "url": "https://raw.githubusercontent.com/focoosistemas/focoo-atualizacoes/main/instaladores/Emissor_FOCOO_Setup_2026.11.20.31.exe",
-  "sha256": "7521c50e4d177c7140dcf7cea561ae3c78bfa8b3c2a4823221c9eab26d49a758",
-  "tamanho": 18655763,
-  "notas": "Tela inicial avisa boleto pago no banco com estorno no Financeiro; marcar devolução como resolvida.",
+  "versao": "2026.11.20.32",
+  "url": "https://raw.githubusercontent.com/focoosistemas/focoo-atualizacoes/main/instaladores/Emissor_FOCOO_Setup_2026.11.20.32.exe",
+  "sha256": "17bb027b0de4e487c4165d5c66da44715e1b0dcd9fd9517a0bd3ca8bacb40d20",
+  "tamanho": 18653060,
+  "notas": "Cobrança paga não mostra mais Pix e linha digitável; texto correto quando a baixa foi estornada.",
   "data": "2026-11-23",
-  "assinatura": "XtKOnRR6ay4Njv5pmKjq8VQWb+xw0GsYCDz3G7zr4fz7K5aa7toN5bJOqc7Xy+CI65DT2JrCKs+NK8fzYK2CAQ=="
+  "assinatura": "j8qgvt2O6l46RTDYujHUkJP5QL2IFwTqFcP+cJh4lx1eMae/DboG1hQj9uKvHaMxejjtFsO0FTR7Xk+C8G02Bw=="
 }
