@@ -1,9 +1,9 @@
 {
-  "versao": "2026.11.20.21",
-  "url": "https://raw.githubusercontent.com/focoosistemas/focoo-atualizacoes/main/instaladores/Emissor_FOCOO_Setup_2026.11.20.21.exe",
-  "sha256": "1f66c0a181b39172d4b02ea344e88592e70e03a298cda0e172417e99b275dd77",
-  "tamanho": 18649800,
-  "notas": "Academia: trancamento de plano, multa e juros, ficha de treino, avaliação física, contrato do aluno e turmas. Clínica: imagens e exames no prontuário, retornos programados e lista de espera.",
+  "versao": "2026.11.20.22",
+  "url": "https://raw.githubusercontent.com/focoosistemas/focoo-atualizacoes/main/instaladores/Emissor_FOCOO_Setup_2026.11.20.22.exe",
+  "sha256": "ac5b204516ba25e9629ddf5d403b6e993a3eeb4ac71d50869fcef90e3fe06d4d",
+  "tamanho": 18648930,
+  "notas": "Academia: trancamento, multa e juros, ficha de treino, avaliação física, contrato e turmas. Clínica: imagens no prontuário, retornos e lista de espera.",
   "data": "2026-11-23",
-  "assinatura": "05Zw8VlmjLf3o7EcQs5LfX/TQpGq6jTsyRmQ7swD5liT9O+NopXcrjO9Dj03JqAsLfwuxrVWOIYEoR2SX8E6DA=="
+  "assinatura": "bUq/OGh1O2vFPSYUz6ZcKUWADVSraIjHWA+IgAs4hqX7zIJmtiXxgiGPjSLar7IOS0h3yeYL3PgHsDmFkGZ9CQ=="
 }
