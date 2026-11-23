@@ -1,9 +1,9 @@
 {
-  "versao": "2026.11.20.24",
-  "url": "https://raw.githubusercontent.com/focoosistemas/focoo-atualizacoes/main/instaladores/Emissor_FOCOO_Setup_2026.11.20.24.exe",
-  "sha256": "6540cdf878cf8f1e0bfb8c6f1a48c83bc257a1987c838c972d8051ade8237bba",
-  "tamanho": 18648677,
-  "notas": "Nota fiscal pelo valor principal: multa e juros por atraso não entram na NFS-e (cobrança pelo banco e mensalidades da academia).",
+  "versao": "2026.11.20.25",
+  "url": "https://raw.githubusercontent.com/focoosistemas/focoo-atualizacoes/main/instaladores/Emissor_FOCOO_Setup_2026.11.20.25.exe",
+  "sha256": "8c3dc073e64ffaeaac1ed3a78b734206862f76bfa37210106f1d9e501b41483e",
+  "tamanho": 18650745,
+  "notas": "Mercadinho passa a ser marcado na empresa, como Academia e Arena. Corrigido erro ao salvar empresa com notas sem dados do XML.",
   "data": "2026-11-23",
-  "assinatura": "wwxIg1rQ7MhzlrYULywHqjucUAYHFOjokWt31b0i8tEzu42oP5xkU4O9VfZuRjfNGuo4gMUQryJDQqzdL9IaDg=="
+  "assinatura": "m5aPZQc94AcQmqCtOdhZod8NNtP1SNVaj7MLxcnDvwAuW4OR6J2IHdSnPh1Vr4AAhsZn2dCuFW5WBttcs0nMBg=="
 }
