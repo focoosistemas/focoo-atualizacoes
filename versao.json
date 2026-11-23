@@ -1,9 +1,9 @@
 {
-  "versao": "2026.11.20.19",
-  "url": "https://raw.githubusercontent.com/focoosistemas/focoo-atualizacoes/main/instaladores/Emissor_FOCOO_Setup_2026.11.20.19.exe",
-  "sha256": "58a427c40517217f8b14fafe313bad3f2e2201a137b8b1568bb8365ba5181f4f",
-  "tamanho": 18634816,
-  "notas": "Correções de segurança e de cobrança: senhas após restaurar backup, desconto e cancelamento na Gráfica e na Arena, jogos após a meia-noite, Academia e Clínica mais leves.",
+  "versao": "2026.11.20.20",
+  "url": "https://raw.githubusercontent.com/focoosistemas/focoo-atualizacoes/main/instaladores/Emissor_FOCOO_Setup_2026.11.20.20.exe",
+  "sha256": "6f5efa08058d950c52386df51e3f17ceb2b1674e803a23232ca361c1499f9ffc",
+  "tamanho": 18640391,
+  "notas": "Mercadinho: validade dos perecíveis, etiquetas de gôndola e vários códigos de barras por produto. Gráfica: preço por quantidade e comissão de vendedor. PDV: dividir a conta. Reservas e numeração protegidas contra gravação simultânea.",
   "data": "2026-11-23",
-  "assinatura": "pqiy425/kUyj0Q3mqONiXSjUmSmPbiRWk3K5Yh6TKdTdxiFg93wM5qT+OY94vI3LV7gToMNhpA7oTpkNyej6Dw=="
+  "assinatura": "QtAD7KhNTTg6OwcDko2vx9ZNbyl0qEnzw+6dS50J4AryZCd5qyjXPPBhXau+3cv02mAkQX+/dJcv2DI/lXpiBA=="
 }
