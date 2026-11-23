@@ -1,9 +1,9 @@
 {
-  "versao": "2026.11.20.18",
-  "url": "https://raw.githubusercontent.com/focoosistemas/focoo-atualizacoes/main/instaladores/Emissor_FOCOO_Setup_2026.11.20.18.exe",
-  "sha256": "5226fe99777d6d798a759619d9d87ee8b47c4af207e37177c00664a2b25b1ac5",
-  "tamanho": 18774320,
-  "notas": "Contrato mostra os adicionais e a condição de desconto para clientes da Contizze.",
-  "data": "2026-11-22",
-  "assinatura": "cHaDHDU7/OiCUe5BEPdBK+bHE27EAnrOIZh6iMtoty+e7ZgY7ulVVMr12r0WV/JS4ql9G7WXideh8fBHSam5Cw=="
+  "versao": "2026.11.20.19",
+  "url": "https://raw.githubusercontent.com/focoosistemas/focoo-atualizacoes/main/instaladores/Emissor_FOCOO_Setup_2026.11.20.19.exe",
+  "sha256": "58a427c40517217f8b14fafe313bad3f2e2201a137b8b1568bb8365ba5181f4f",
+  "tamanho": 18634816,
+  "notas": "Correções de segurança e de cobrança: senhas após restaurar backup, desconto e cancelamento na Gráfica e na Arena, jogos após a meia-noite, Academia e Clínica mais leves.",
+  "data": "2026-11-23",
+  "assinatura": "pqiy425/kUyj0Q3mqONiXSjUmSmPbiRWk3K5Yh6TKdTdxiFg93wM5qT+OY94vI3LV7gToMNhpA7oTpkNyej6Dw=="
 }
