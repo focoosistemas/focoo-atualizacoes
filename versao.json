@@ -1,9 +1,9 @@
 {
-  "versao": "2026.11.20.29",
-  "url": "https://raw.githubusercontent.com/focoosistemas/focoo-atualizacoes/main/instaladores/Emissor_FOCOO_Setup_2026.11.20.29.exe",
-  "sha256": "d8ae33e928dc01a2b90f510ef577ccee811f2c05b2bc9a710b5f57270b442e8d",
-  "tamanho": 18649603,
-  "notas": "Cobranças: prazo configurável para pagar após o vencimento e situação atual da nota (mostra cancelada).",
+  "versao": "2026.11.20.30",
+  "url": "https://raw.githubusercontent.com/focoosistemas/focoo-atualizacoes/main/instaladores/Emissor_FOCOO_Setup_2026.11.20.30.exe",
+  "sha256": "8bd1006fd567493083578e4c95e950187cdbfb369baa37a97130b8e260c56a9e",
+  "tamanho": 18651364,
+  "notas": "Backup com senha: arquivo criptografado (AES-256), restauração pede a senha em outro computador.",
   "data": "2026-11-23",
-  "assinatura": "XGNu5ae9Cn2V7lDtXilfdxT1q9fXMcPSxes9V8McEDPDqm4STxOtLdqeXB1R+tgrzB1UUHgVM0PG8NV1b7rWCw=="
+  "assinatura": "mdUpVlF+z6bMx/ufnUIJNtDP0MwkOf49h6KrjznD5TNbgdL/d7H4IkeUeWk5spXbpsSHBHl28LYd0d8S5gBqBg=="
 }
