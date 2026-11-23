@@ -1,9 +1,9 @@
 {
-  "versao": "2026.11.20.25",
-  "url": "https://raw.githubusercontent.com/focoosistemas/focoo-atualizacoes/main/instaladores/Emissor_FOCOO_Setup_2026.11.20.25.exe",
-  "sha256": "8c3dc073e64ffaeaac1ed3a78b734206862f76bfa37210106f1d9e501b41483e",
-  "tamanho": 18650745,
-  "notas": "Mercadinho passa a ser marcado na empresa, como Academia e Arena. Corrigido erro ao salvar empresa com notas sem dados do XML.",
+  "versao": "2026.11.20.26",
+  "url": "https://raw.githubusercontent.com/focoosistemas/focoo-atualizacoes/main/instaladores/Emissor_FOCOO_Setup_2026.11.20.26.exe",
+  "sha256": "5ee5c31bdd93e3c39731a6297dc60466d9cd49fb115247d1670c2ee1a0418f5a",
+  "tamanho": 18648531,
+  "notas": "Contas a receber sugerem os clientes cadastrados; a cobrança pelo banco já busca o cliente pelo nome.",
   "data": "2026-11-23",
-  "assinatura": "m5aPZQc94AcQmqCtOdhZod8NNtP1SNVaj7MLxcnDvwAuW4OR6J2IHdSnPh1Vr4AAhsZn2dCuFW5WBttcs0nMBg=="
+  "assinatura": "XHw22LI51dAcUnunzFlOvDuAhPc4p5z9JljwlDhKwkCFe2K5qgnboPV3AiLVZcNS86DM3hIWQ+5useeU3PSFDA=="
 }
