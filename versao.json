@@ -1,9 +1,9 @@
 {
-  "versao": "2026.11.20.40",
-  "url": "https://raw.githubusercontent.com/focoosistemas/focoo-atualizacoes/main/instaladores/Emissor_FOCOO_Setup_2026.11.20.40.exe",
-  "sha256": "d2f579a0e5c197e83d43a4fcbb23af1b9b84fb66e7cd65eafdc91cee87eb6835",
-  "tamanho": 18659805,
-  "notas": "Desempenho: tela de Produtos e de Pendencias nao travam mais com muitos produtos (o menu Juntar em e Vincular carrega sob demanda).",
+  "versao": "2026.11.20.41",
+  "url": "https://raw.githubusercontent.com/focoosistemas/focoo-atualizacoes/main/instaladores/Emissor_FOCOO_Setup_2026.11.20.41.exe",
+  "sha256": "d248315ed68f5b61a7d30a85fa4afc314c6dc2511ccf4f927a5314d784baf1e8",
+  "tamanho": 18658054,
+  "notas": "Academia e Clinica (Etapa 1): dados guardados por colecao; cada alteracao grava so o que mudou, o backup para de inchar e um problema numa colecao nao derruba o resto. Junção de dois computadores mantida.",
   "data": "2026-11-27",
-  "assinatura": "vAVCM7dRkZdi8jzXl1AHcuRCN55hLA9d4DkmNekgzJ0npd4pqD8OFpRbLmBr2yqD6guJ5CKsZsDPrIJqwXXABA=="
+  "assinatura": "Dxui9ehOYoutB40uWnSfqpdXWdeMgXmbKdLx90ki8yTyKkmFA/2tn6AOCX2vk9BbPnIhN/dOjIT4G3TcXVr1Dg=="
 }
