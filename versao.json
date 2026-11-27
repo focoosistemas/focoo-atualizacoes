@@ -1,9 +1,9 @@
 {
-  "versao": "2026.11.20.44",
-  "url": "https://raw.githubusercontent.com/focoosistemas/focoo-atualizacoes/main/instaladores/Emissor_FOCOO_Setup_2026.11.20.44.exe",
-  "sha256": "ffa8325a72bf4361cdbaf0b18858c8f4953079d79e6d0908d72a88316cbe8bfa",
-  "tamanho": 18667192,
-  "notas": "Clientes: relatorio em Excel e PDF, selecao em lote para excluir e alterar. Academia: alterar alunos em lote (plano, dia de vencimento, valor, situacao), acertando as mensalidades em aberto.",
+  "versao": "2026.11.27.45",
+  "url": "https://raw.githubusercontent.com/focoosistemas/focoo-atualizacoes/main/instaladores/Emissor_FOCOO_Setup_2026.11.27.45.exe",
+  "sha256": "7c31b00b1c231f459bf27bb300cdd6bc2ef705fb4801f737df7f6fb803949dd4",
+  "tamanho": 18670951,
+  "notas": "Academia: botoes Importar alunos e Alterar em lote movidos para a tela de Alunos (sem sobrepor a barra superior), agora responsivos em tela grande e pequena. Novo botao Encerrar matriculas sem frequencia: inativa e cancela as mensalidades em atraso dos alunos sem acesso ha X dias. Alunos com mais de 31 dias de atraso passam a inativo e saem da lista de Em atraso (padrao de inativacao por atraso agora e 31 dias).",
   "data": "2026-11-27",
-  "assinatura": "aSvPwXKrztnIHQsbe8x4HJmadNa+Kh72I9cJY6Mf3bno7y6BPzves/3bwZYGHjTOQv9VO8+mqZrPVfAMrGzrBg=="
+  "assinatura": "po/RG0/DNu8jF3Z85SofCD5lI+kcIyoIMy78n41FJXtcSlCHdk3go0SoWKTc9De1zlPva/+bBNSLv96/M/aWDA=="
 }
