@@ -1,9 +1,9 @@
 {
-  "versao": "2026.11.27.45",
-  "url": "https://raw.githubusercontent.com/focoosistemas/focoo-atualizacoes/main/instaladores/Emissor_FOCOO_Setup_2026.11.27.45.exe",
-  "sha256": "7c31b00b1c231f459bf27bb300cdd6bc2ef705fb4801f737df7f6fb803949dd4",
-  "tamanho": 18670951,
-  "notas": "Academia: botoes Importar alunos e Alterar em lote movidos para a tela de Alunos (sem sobrepor a barra superior), agora responsivos em tela grande e pequena. Novo botao Encerrar matriculas sem frequencia: inativa e cancela as mensalidades em atraso dos alunos sem acesso ha X dias. Alunos com mais de 31 dias de atraso passam a inativo e saem da lista de Em atraso (padrao de inativacao por atraso agora e 31 dias).",
+  "versao": "2026.11.27.46",
+  "url": "https://raw.githubusercontent.com/focoosistemas/focoo-atualizacoes/main/instaladores/Emissor_FOCOO_Setup_2026.11.27.46.exe",
+  "sha256": "1a3c5664e8dd00c77430029f935612a3304c61325f7436b4d949bd36a41cb29f",
+  "tamanho": 18666617,
+  "notas": "Academia: botao Ex-alunos (antes Encerrar sem uso) agora identifica quem nao e mais aluno pelo tempo sem pagar (dias de atraso), mostrando ultimo pagamento, dias de atraso e valor em aberto. Permite encerrar a matricula e cancelar as mensalidades em atraso em lote. Tambem da para filtrar por tempo sem acessar a catraca.",
   "data": "2026-11-27",
-  "assinatura": "po/RG0/DNu8jF3Z85SofCD5lI+kcIyoIMy78n41FJXtcSlCHdk3go0SoWKTc9De1zlPva/+bBNSLv96/M/aWDA=="
+  "assinatura": "aGu7kopKfB220K9LJ1D8C12v4t9i9jdOqrZKcQoxUa7jPe6Oxm9Tg1RjbsZA8o4gNzPeY+q9kZHXRtGbzKs1Bw=="
 }
