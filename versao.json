@@ -1,9 +1,9 @@
 {
-  "versao": "2026.11.20.38",
-  "url": "https://raw.githubusercontent.com/focoosistemas/focoo-atualizacoes/main/instaladores/Emissor_FOCOO_Setup_2026.11.20.38.exe",
-  "sha256": "d02d4b53c07915d912c53512953abe3e58ae22895dd89d1dd641c3e7de25aff0",
-  "tamanho": 18657029,
-  "notas": "NFS-e com valor único e recebimento parcelado no Financeiro; competência nos lançamentos a receber e a pagar e filtro por competência; NFS-e fora das configurações de empresa só de comércio.",
+  "versao": "2026.11.20.39",
+  "url": "https://raw.githubusercontent.com/focoosistemas/focoo-atualizacoes/main/instaladores/Emissor_FOCOO_Setup_2026.11.20.39.exe",
+  "sha256": "af470c87d209dde01af116daa414393482b5b03249815add94c9fcc886309b8e",
+  "tamanho": 18658864,
+  "notas": "Segurança: funcionário restrito às empresas liberadas no cadastro; anexos conferidos pelo conteúdo; cabeçalhos de proteção no navegador.",
   "data": "2026-11-27",
-  "assinatura": "QdZ2r3QcI4BYa4lyFO9A2dhyAmVpao0Dkw3lOXIF290/4orhDgtdiN41dQFd+FG+euq0Bn8PtD9Lp9Pyl/j0DQ=="
+  "assinatura": "b3nnlzazUh1NgLvtWpnNOCqwtzGAcR2Dzbyp256BXX4vxb5ddz9YGYYucxf1zvY1s9vdft0lmewZV+jX7sXeBg=="
 }
