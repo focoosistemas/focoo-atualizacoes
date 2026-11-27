@@ -1,9 +1,9 @@
 {
-  "versao": "2026.11.27.46",
-  "url": "https://raw.githubusercontent.com/focoosistemas/focoo-atualizacoes/main/instaladores/Emissor_FOCOO_Setup_2026.11.27.46.exe",
-  "sha256": "1a3c5664e8dd00c77430029f935612a3304c61325f7436b4d949bd36a41cb29f",
-  "tamanho": 18666617,
-  "notas": "Academia: botao Ex-alunos (antes Encerrar sem uso) agora identifica quem nao e mais aluno pelo tempo sem pagar (dias de atraso), mostrando ultimo pagamento, dias de atraso e valor em aberto. Permite encerrar a matricula e cancelar as mensalidades em atraso em lote. Tambem da para filtrar por tempo sem acessar a catraca.",
+  "versao": "2026.11.27.47",
+  "url": "https://raw.githubusercontent.com/focoosistemas/focoo-atualizacoes/main/instaladores/Emissor_FOCOO_Setup_2026.11.27.47.exe",
+  "sha256": "87ae9951a4a38619f5f111d81855662d2d9921219bd9e0fd1a51f552639434a9",
+  "tamanho": 18670705,
+  "notas": "Academia: botoes de gerenciar aluno (Importar, Alterar em lote, Ex-alunos e Inativos) agrupados em um unico menu 'Gerenciar alunos' na tela de Alunos, devolvendo espaco para a barra de pesquisa, que estava espremida.",
   "data": "2026-11-27",
-  "assinatura": "aGu7kopKfB220K9LJ1D8C12v4t9i9jdOqrZKcQoxUa7jPe6Oxm9Tg1RjbsZA8o4gNzPeY+q9kZHXRtGbzKs1Bw=="
+  "assinatura": "kYCVX0HiVUDiqB7yuNiEJFBTUz3ftKsU9szDeCwsiV6X2IlmTJ70DokZWAoPNCbjFF/SyGfFeDBcITW5cUCLCw=="
 }
