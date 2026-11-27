@@ -1,9 +1,9 @@
 {
-  "versao": "2026.11.20.41",
-  "url": "https://raw.githubusercontent.com/focoosistemas/focoo-atualizacoes/main/instaladores/Emissor_FOCOO_Setup_2026.11.20.41.exe",
-  "sha256": "d248315ed68f5b61a7d30a85fa4afc314c6dc2511ccf4f927a5314d784baf1e8",
-  "tamanho": 18658054,
-  "notas": "Academia e Clinica (Etapa 1): dados guardados por colecao; cada alteracao grava so o que mudou, o backup para de inchar e um problema numa colecao nao derruba o resto. Junção de dois computadores mantida.",
+  "versao": "2026.11.20.42",
+  "url": "https://raw.githubusercontent.com/focoosistemas/focoo-atualizacoes/main/instaladores/Emissor_FOCOO_Setup_2026.11.20.42.exe",
+  "sha256": "7bff6bd6a6004049eb107ddf2edae618ce31ca02ce12531b705d5d63f7ea2a58",
+  "tamanho": 18663374,
+  "notas": "Exportar/Importar empresa: leva uma empresa (cadastro, clientes, produtos, Academia e Clinica) de uma instalacao para outra, sem notas emitidas, financeiro nem senhas. Ideal para o contador migrar um cliente.",
   "data": "2026-11-27",
-  "assinatura": "Dxui9ehOYoutB40uWnSfqpdXWdeMgXmbKdLx90ki8yTyKkmFA/2tn6AOCX2vk9BbPnIhN/dOjIT4G3TcXVr1Dg=="
+  "assinatura": "/6raF8nPyGSrvQtNjt5Bg6ZDBK0wBVk1YLAF2Y+Dr/B3iSS87uuYH+hZ2I76oqHpJx4Dz+OrquS+0wnAu4/qAw=="
 }
