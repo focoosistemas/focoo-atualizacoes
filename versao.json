@@ -1,9 +1,9 @@
 {
-  "versao": "2026.11.20.37",
-  "url": "https://raw.githubusercontent.com/focoosistemas/focoo-atualizacoes/main/instaladores/Emissor_FOCOO_Setup_2026.11.20.37.exe",
-  "sha256": "f81aff1977d0569b4576e6621dd0cb273b9f59eefae0442e16fd5d92b5addea8",
-  "tamanho": 18657903,
-  "notas": "Financeiro: NFS-e rápida ao receber à mão (ou pelo menu da conta) e coluna Fiscal mostra a NFS-e, NF-e ou NFC-e emitida com o número.",
-  "data": "2026-11-23",
-  "assinatura": "aiD7PBNG/b8ApAYXERkoS/EvRZH+Y0iE8ytvrwMLRCa9MiZqnLtzooqTSgrPfDbzZNXdCPz3H73OVLxIV5M5Bg=="
+  "versao": "2026.11.20.38",
+  "url": "https://raw.githubusercontent.com/focoosistemas/focoo-atualizacoes/main/instaladores/Emissor_FOCOO_Setup_2026.11.20.38.exe",
+  "sha256": "d02d4b53c07915d912c53512953abe3e58ae22895dd89d1dd641c3e7de25aff0",
+  "tamanho": 18657029,
+  "notas": "NFS-e com valor único e recebimento parcelado no Financeiro; competência nos lançamentos a receber e a pagar e filtro por competência; NFS-e fora das configurações de empresa só de comércio.",
+  "data": "2026-11-27",
+  "assinatura": "QdZ2r3QcI4BYa4lyFO9A2dhyAmVpao0Dkw3lOXIF290/4orhDgtdiN41dQFd+FG+euq0Bn8PtD9Lp9Pyl/j0DQ=="
 }
