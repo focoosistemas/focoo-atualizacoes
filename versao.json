@@ -1,9 +1,9 @@
 {
-  "versao": "2026.11.27.47",
-  "url": "https://raw.githubusercontent.com/focoosistemas/focoo-atualizacoes/main/instaladores/Emissor_FOCOO_Setup_2026.11.27.47.exe",
-  "sha256": "87ae9951a4a38619f5f111d81855662d2d9921219bd9e0fd1a51f552639434a9",
-  "tamanho": 18670705,
-  "notas": "Academia: botoes de gerenciar aluno (Importar, Alterar em lote, Ex-alunos e Inativos) agrupados em um unico menu 'Gerenciar alunos' na tela de Alunos, devolvendo espaco para a barra de pesquisa, que estava espremida.",
+  "versao": "2026.11.27.48",
+  "url": "https://raw.githubusercontent.com/focoosistemas/focoo-atualizacoes/main/instaladores/Emissor_FOCOO_Setup_2026.11.27.48.exe",
+  "sha256": "c74abfd227b71d65305b066bd87b4dd58623d688a9834399406e6bc8e4e2eed8",
+  "tamanho": 18670151,
+  "notas": "Manuais atualizados: Academia ganhou a secao Gerenciar alunos (importar, alterar em lote, ex-alunos, inativos, rematricula e inativacao apos 31 dias) e dica sobre a divida da importacao. Emissao: consumidor final, como foi a venda, CFOP por destino, NFS-e rapida, competencia e parcelas. Financeiro: parcelas, competencia nas despesas e NFS-e rapida. Geral: exportar e importar empresa entre instalacoes.",
   "data": "2026-11-27",
-  "assinatura": "kYCVX0HiVUDiqB7yuNiEJFBTUz3ftKsU9szDeCwsiV6X2IlmTJ70DokZWAoPNCbjFF/SyGfFeDBcITW5cUCLCw=="
+  "assinatura": "JNiMBr9WHUIeUmBxMDkZbSHfXe3vMMn6dOgrgv5HWRclxsLa4mOZ703L9M9WhOA2Y7Faiii6w6HSFbeWJrSeBw=="
 }
