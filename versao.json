@@ -1,9 +1,9 @@
 {
-  "versao": "2026.11.20.43",
-  "url": "https://raw.githubusercontent.com/focoosistemas/focoo-atualizacoes/main/instaladores/Emissor_FOCOO_Setup_2026.11.20.43.exe",
-  "sha256": "b9d58595d2d32097f38e1283e0e71c949d5cf946350e425308803a71a716dc65",
-  "tamanho": 18666141,
-  "notas": "Academia: importar alunos por planilha (plano, valor, dia de vencimento, data de entrada, situacao). Cobranca comeca do mes atual; dividida reconstruida so para quem deve. Cruza com os clientes pelo CPF.",
+  "versao": "2026.11.20.44",
+  "url": "https://raw.githubusercontent.com/focoosistemas/focoo-atualizacoes/main/instaladores/Emissor_FOCOO_Setup_2026.11.20.44.exe",
+  "sha256": "ffa8325a72bf4361cdbaf0b18858c8f4953079d79e6d0908d72a88316cbe8bfa",
+  "tamanho": 18667192,
+  "notas": "Clientes: relatorio em Excel e PDF, selecao em lote para excluir e alterar. Academia: alterar alunos em lote (plano, dia de vencimento, valor, situacao), acertando as mensalidades em aberto.",
   "data": "2026-11-27",
-  "assinatura": "TyvQMOAh1U7UBehFh3ie+jLY+/q384tO0qv6Xndygyc1xH90uoCDTP9n846awu7A0NHnu4wYj0e6Pk/WTL5AAA=="
+  "assinatura": "aSvPwXKrztnIHQsbe8x4HJmadNa+Kh72I9cJY6Mf3bno7y6BPzves/3bwZYGHjTOQv9VO8+mqZrPVfAMrGzrBg=="
 }
