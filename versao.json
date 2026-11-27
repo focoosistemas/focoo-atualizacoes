@@ -1,9 +1,9 @@
 {
-  "versao": "2026.11.20.39",
-  "url": "https://raw.githubusercontent.com/focoosistemas/focoo-atualizacoes/main/instaladores/Emissor_FOCOO_Setup_2026.11.20.39.exe",
-  "sha256": "af470c87d209dde01af116daa414393482b5b03249815add94c9fcc886309b8e",
-  "tamanho": 18658864,
-  "notas": "Segurança: funcionário restrito às empresas liberadas no cadastro; anexos conferidos pelo conteúdo; cabeçalhos de proteção no navegador.",
+  "versao": "2026.11.20.40",
+  "url": "https://raw.githubusercontent.com/focoosistemas/focoo-atualizacoes/main/instaladores/Emissor_FOCOO_Setup_2026.11.20.40.exe",
+  "sha256": "d2f579a0e5c197e83d43a4fcbb23af1b9b84fb66e7cd65eafdc91cee87eb6835",
+  "tamanho": 18659805,
+  "notas": "Desempenho: tela de Produtos e de Pendencias nao travam mais com muitos produtos (o menu Juntar em e Vincular carrega sob demanda).",
   "data": "2026-11-27",
-  "assinatura": "b3nnlzazUh1NgLvtWpnNOCqwtzGAcR2Dzbyp256BXX4vxb5ddz9YGYYucxf1zvY1s9vdft0lmewZV+jX7sXeBg=="
+  "assinatura": "vAVCM7dRkZdi8jzXl1AHcuRCN55hLA9d4DkmNekgzJ0npd4pqD8OFpRbLmBr2yqD6guJ5CKsZsDPrIJqwXXABA=="
 }
