@@ -1,9 +1,9 @@
 {
-  "versao": "2026.11.28.51",
-  "url": "https://raw.githubusercontent.com/focoosistemas/focoo-atualizacoes/main/instaladores/Emissor_FOCOO_Setup_2026.11.28.51.exe",
-  "sha256": "92a39c6a14ed2e71201be3e6faaa42ba759be434fb97a09aad5fe042980719e5",
-  "tamanho": 18671608,
-  "notas": "Academia: corrige o endereco na importacao de alunos. A rua vinha gravada num campo que o cadastro nao lia, entao aparecia so bairro/cidade/UF. Agora a rua entra certo, e os alunos ja importados tem a rua completada automaticamente ao abrir.",
+  "versao": "2026.11.28.52",
+  "url": "https://raw.githubusercontent.com/focoosistemas/focoo-atualizacoes/main/instaladores/Emissor_FOCOO_Setup_2026.11.28.52.exe",
+  "sha256": "81d7cda5eb5e803c81191474f08a479b07188527d90972724900308ff1df0a15",
+  "tamanho": 18670817,
+  "notas": "Academia: a importacao de alunos passa a aceitar a coluna 'Inicio cobranca' para definir em que mes a cobranca de cada aluno comeca (ex.: ativos em dezembro, bloqueados em novembro), sem precisar fazer rematricula na mao.",
   "data": "2026-11-28",
-  "assinatura": "h6OJKeT8QCNSrxyNdCpTfXqiYwMk4K28Atgb23DI2rrQ4BERFjwVgWPklzBX4yjJlLHg1b36+dCn4GD7JhZoAA=="
+  "assinatura": "PIBo9Vw2QYXh+ZguWfjEfg2UwOZsaGoIA47P1PtGLReByfqo94FdEFfRYBQQkDiY6vI7+BRiF/HlNSqGYcVqAw=="
 }
