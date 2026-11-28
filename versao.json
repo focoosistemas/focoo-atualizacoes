@@ -1,9 +1,9 @@
 {
-  "versao": "2026.11.27.48",
-  "url": "https://raw.githubusercontent.com/focoosistemas/focoo-atualizacoes/main/instaladores/Emissor_FOCOO_Setup_2026.11.27.48.exe",
-  "sha256": "c74abfd227b71d65305b066bd87b4dd58623d688a9834399406e6bc8e4e2eed8",
-  "tamanho": 18670151,
-  "notas": "Manuais atualizados: Academia ganhou a secao Gerenciar alunos (importar, alterar em lote, ex-alunos, inativos, rematricula e inativacao apos 31 dias) e dica sobre a divida da importacao. Emissao: consumidor final, como foi a venda, CFOP por destino, NFS-e rapida, competencia e parcelas. Financeiro: parcelas, competencia nas despesas e NFS-e rapida. Geral: exportar e importar empresa entre instalacoes.",
-  "data": "2026-11-27",
-  "assinatura": "JNiMBr9WHUIeUmBxMDkZbSHfXe3vMMn6dOgrgv5HWRclxsLa4mOZ703L9M9WhOA2Y7Faiii6w6HSFbeWJrSeBw=="
+  "versao": "2026.11.28.49",
+  "url": "https://raw.githubusercontent.com/focoosistemas/focoo-atualizacoes/main/instaladores/Emissor_FOCOO_Setup_2026.11.28.49.exe",
+  "sha256": "b3442b01f7ddcba8d08e40bce07a0a37a94d6e13356b451928bf304b45ab8db3",
+  "tamanho": 18670242,
+  "notas": "Academia: no cadastro de aluno novo, opcao de cobrar taxa de matricula (valor editavel) no primeiro mes, cobrada a parte. Escolhe se o valor do plano volta ao normal ja neste mes ou a partir do mes seguinte (padrao: mes seguinte). A rematricula continua como estava.",
+  "data": "2026-11-28",
+  "assinatura": "R8Fh813s4dXYf6493Bglh5XrNGD6TjMfBMniqvIBifMsjb06/uZJNFm6xoCSEEBmrEv7tG2ec9qar5IqH3CFAw=="
 }
