@@ -1,9 +1,9 @@
 {
-  "versao": "2026.11.28.49",
-  "url": "https://raw.githubusercontent.com/focoosistemas/focoo-atualizacoes/main/instaladores/Emissor_FOCOO_Setup_2026.11.28.49.exe",
-  "sha256": "b3442b01f7ddcba8d08e40bce07a0a37a94d6e13356b451928bf304b45ab8db3",
-  "tamanho": 18670242,
-  "notas": "Academia: no cadastro de aluno novo, opcao de cobrar taxa de matricula (valor editavel) no primeiro mes, cobrada a parte. Escolhe se o valor do plano volta ao normal ja neste mes ou a partir do mes seguinte (padrao: mes seguinte). A rematricula continua como estava.",
+  "versao": "2026.11.28.50",
+  "url": "https://raw.githubusercontent.com/focoosistemas/focoo-atualizacoes/main/instaladores/Emissor_FOCOO_Setup_2026.11.28.50.exe",
+  "sha256": "68a1363305ac7950a759dba058bd43f83182890088986d645f241db4a7d94727",
+  "tamanho": 18675644,
+  "notas": "Academia: novo item 'Excluir todos os alunos' no menu Gerenciar alunos, com confirmacao (digitar EXCLUIR). Zera alunos, mensalidades, acessos e os clientes ligados a eles, mantendo planos e configuracoes, para reimportar a base do zero sem duplicar.",
   "data": "2026-11-28",
-  "assinatura": "R8Fh813s4dXYf6493Bglh5XrNGD6TjMfBMniqvIBifMsjb06/uZJNFm6xoCSEEBmrEv7tG2ec9qar5IqH3CFAw=="
+  "assinatura": "C5VbPmU6bl3DBFp2ZM2TAIYKLfVXsc0LIRO3wKo1D2jNjaFJXbegGTT08ARNvi5nDP35NcdDPJtGqrsro6WPBg=="
 }
