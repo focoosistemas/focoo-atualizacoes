@@ -1,9 +1,9 @@
 {
-  "versao": "2026.11.28.50",
-  "url": "https://raw.githubusercontent.com/focoosistemas/focoo-atualizacoes/main/instaladores/Emissor_FOCOO_Setup_2026.11.28.50.exe",
-  "sha256": "68a1363305ac7950a759dba058bd43f83182890088986d645f241db4a7d94727",
-  "tamanho": 18675644,
-  "notas": "Academia: novo item 'Excluir todos os alunos' no menu Gerenciar alunos, com confirmacao (digitar EXCLUIR). Zera alunos, mensalidades, acessos e os clientes ligados a eles, mantendo planos e configuracoes, para reimportar a base do zero sem duplicar.",
+  "versao": "2026.11.28.51",
+  "url": "https://raw.githubusercontent.com/focoosistemas/focoo-atualizacoes/main/instaladores/Emissor_FOCOO_Setup_2026.11.28.51.exe",
+  "sha256": "92a39c6a14ed2e71201be3e6faaa42ba759be434fb97a09aad5fe042980719e5",
+  "tamanho": 18671608,
+  "notas": "Academia: corrige o endereco na importacao de alunos. A rua vinha gravada num campo que o cadastro nao lia, entao aparecia so bairro/cidade/UF. Agora a rua entra certo, e os alunos ja importados tem a rua completada automaticamente ao abrir.",
   "data": "2026-11-28",
-  "assinatura": "C5VbPmU6bl3DBFp2ZM2TAIYKLfVXsc0LIRO3wKo1D2jNjaFJXbegGTT08ARNvi5nDP35NcdDPJtGqrsro6WPBg=="
+  "assinatura": "h6OJKeT8QCNSrxyNdCpTfXqiYwMk4K28Atgb23DI2rrQ4BERFjwVgWPklzBX4yjJlLHg1b36+dCn4GD7JhZoAA=="
 }
